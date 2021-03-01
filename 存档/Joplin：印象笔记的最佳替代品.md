@@ -177,7 +177,7 @@ Markdown是一种十分简介的标记语言，但是它有一个很重要的问
 
 方法是采用PicGo+SMMS图床的方式。需要做的准备是安装PicGo，并且注册SMMS。
 
-打开SMMS的网址（https://sm.ms/），“User-Register”，进行注册。
+打开SMMS的网址（https://sm.ms/ ），“User-Register”，进行注册。
 
 ![image-20210205222401308](https://i.loli.net/2021/02/05/zNVP16RkU4mjFil.png)
 
